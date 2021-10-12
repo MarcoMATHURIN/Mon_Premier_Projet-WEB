@@ -1,4 +1,5 @@
 # Mon_Premier_Projet-WEB
+Voici la liste des pages de ce projet qui fonctionnent:
 Liste des pages ->
                   Page 1: Page d'acceuil;
                                     Page 2: Habdel;
