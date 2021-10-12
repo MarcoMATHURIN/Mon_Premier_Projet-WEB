@@ -5,4 +5,4 @@ Liste des pages ->
                                     Page 2: Abdel Halim;
                                               Page 3: Sawah;
                                                        Page 3-1: Original;
-                                                                    page 3-2: Traduction         
+                                                                    Page 3-2: Traduction         
